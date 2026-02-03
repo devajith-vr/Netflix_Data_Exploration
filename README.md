@@ -1,6 +1,8 @@
 Netflix Dataset Analysis – Content Trends and Insights
-
+---
+---
 • Project Description
+
 
 This project focuses on analyzing Netflix’s content dataset to understand how the platform’s content has evolved over time. The goal of the analysis is to identify trends in content type, genre popularity, and country-wise distribution, and to observe how Netflix has expanded its library over the years.
 
