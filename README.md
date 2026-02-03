@@ -9,7 +9,6 @@ The project emphasizes practical data analysis using Python, with a strong focus
 • Objectives
 
 To analyze the yearly growth of Movies and TV Shows on Netflix
-
 To identify the most common and popular genres
 
 To study country-wise contribution to Netflix content
